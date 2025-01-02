@@ -1,2 +1,9 @@
 # Lista de Palabras
- Lista de palabras en español WIP
+
+ Una lista de palabras y expresiones en Español.
+
+ Tanto sustantivos como pronombres y conjugaciones, básicamente todo.
+
+ Intento aumentarla siempre que puedo. 
+
+ Actualmente tiene +800 mil palabras.
